@@ -1,0 +1,98 @@
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GerenciadorFinanceiro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="adicionar_conta">Adicionar Conta</string>
+    <string name="cadastrar_transacao">Cadastrar Transação</string>
+    <string name="saldo_total">Saldo</string>
+    <string name="sair">Sair</string>
+    <string name="lista_de_contas_vazia">Nenhuma conta cadastrada</string>
+    <string name="lista_de_operacoes_vazia">Nenhuma operação cadastrada</string>
+    <string name="conta_cadastrada_com_sucesso">Conta corrente cadastrada</string>
+    <string name="transacao_cadastrada">Transação cadastrada</string>
+    <string name="conta_modificada">Conta corrente modificada</string>
+    <string name="conta_excluida">Conta corrente excluída</string>
+    <string name="descricao_conta">Título:</string>
+    <string name="descricao_operacao">Operação:</string>
+    <string name="saldo">Saldo R$:</string>
+    <string name="valor_operacao">Valor da operação R$:</string>
+    <string name="cadastrar_conta">Cadastrar Conta Corrente</string>
+    <string name="modificar_conta">Modificar Conta Corrente</string>
+    <string name="excluir_conta">Excluir Conta Corrente</string>
+    <string name="cadastrar_operacao">Salvar</string>
+    <string name="excluir_operacao">Excluir</string>
+    <string name="consultar_extrato">Consultar Extrato</string>
+    <string name="gerar_extrato">Gerar Extrato</string>
+    <string name="categoria">Categoria</string>
+    <string name="mes">Mês</string>
+    <string name="selecionar_tipo_extrato">Selecione o tipo de extrato</string>
+    <string name="categoria_da_operacao">Categoria da operação</string>
+    <string name="tipo_da_operacao">Tipo da operação</string>
+    <string name="a_operacao_se_repete">A operação se repete?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="diario">Diário</string>
+    <string name="mensal">Mensal</string>
+    <string name="semanal">Semanal</string>
+    <string name="currency">R$: </string>
+    <string name="geral">Geral</string>
+
+    <string-array name="categorias_credito">
+        <item>Salário</item>
+        <item>Vale Refeição</item>
+        <item>Vale Transporte</item>
+        <item>Auxílio Saúde</item>
+        <item>Hora Extra</item>
+        <item>Décimo Terceiro</item>
+    </string-array>
+
+    <string-array name="categorias_debito">
+        <item>Alimentação</item>
+        <item>Saúde</item>
+        <item>Transporte</item>
+        <item>Moradia</item>
+        <item>Educação</item>
+        <item>Lazer</item>
+        <item>Tarifa Bancária</item>
+        <item>Energia</item>
+        <item>Água</item>
+    </string-array>
+
+    <string-array name="mes_operacao">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="categorias_geral">
+        <item>Salário</item>
+        <item>Vale Refeição</item>
+        <item>Vale Transporte</item>
+        <item>Auxílio Saúde</item>
+        <item>Hora Extra</item>
+        <item>Décimo Terceiro</item>
+        <item>Alimentação</item>
+        <item>Saúde</item>
+        <item>Transporte</item>
+        <item>Moradia</item>
+        <item>Educação</item>
+        <item>Lazer</item>
+        <item>Tarifa Bancária</item>
+        <item>Energia</item>
+        <item>Água</item>
+    </string-array>
+
+</resources>
