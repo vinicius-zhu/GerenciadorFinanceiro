@@ -43,11 +43,8 @@
 
     <string-array name="categorias_credito">
         <item>Salário</item>
-        <item>Vale Refeição</item>
-        <item>Vale Transporte</item>
-        <item>Auxílio Saúde</item>
-        <item>Hora Extra</item>
-        <item>Décimo Terceiro</item>
+        <item>Crédito em conta</item>
+        <item>Rendimentos</item>
     </string-array>
 
     <string-array name="categorias_debito">
@@ -57,9 +54,8 @@
         <item>Moradia</item>
         <item>Educação</item>
         <item>Lazer</item>
-        <item>Tarifa Bancária</item>
-        <item>Energia</item>
-        <item>Água</item>
+        <item>Tarifa/Juros</item>
+        <item>Conta</item>
     </string-array>
 
     <string-array name="mes_operacao">
@@ -79,20 +75,16 @@
 
     <string-array name="categorias_geral">
         <item>Salário</item>
-        <item>Vale Refeição</item>
-        <item>Vale Transporte</item>
-        <item>Auxílio Saúde</item>
-        <item>Hora Extra</item>
-        <item>Décimo Terceiro</item>
+        <item>Crédito em conta</item>
+        <item>Rendimentos</item>
         <item>Alimentação</item>
         <item>Saúde</item>
         <item>Transporte</item>
         <item>Moradia</item>
         <item>Educação</item>
         <item>Lazer</item>
-        <item>Tarifa Bancária</item>
-        <item>Energia</item>
-        <item>Água</item>
+        <item>Tarifa/Juros</item>
+        <item>Conta</item>
     </string-array>
 
 </resources>
